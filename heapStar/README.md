@@ -47,4 +47,4 @@ to sum up how this works :
 
 just like that we get our first flag . check out my solver if you wanna . 
 
-[flag](/imgs/1-flag.png)
+![flag](/imgs/1-flag.png)
